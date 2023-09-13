@@ -1,0 +1,22 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+.p1 {
+    background-color:lightcoral;}
+#div1 {
+    color: blue;
+    font-size: 32px;}
+
+.p2 {
+    font-size: 24px;
+    background-color: lightcoral;
+}
+
+#div2 {
+    background-color: lightgreen;
+    font-weight: 600;
+}
+
+.p3 {
+    background-color: lightcoral;
+}
